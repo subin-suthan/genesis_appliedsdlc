@@ -1,0 +1,42 @@
+Requirements
+ High level requirements
+1.	Performance
+The performance of the calculator should be high.
+2.	Speed
+The speed of operations performed should be fast.
+3.	It should perform all the arithmetic operations.
+4.	It should find the area of square.
+5.	It should perform conversion operations. 
+6.	It should find the factorial of number.
+7.	It should check for prime number.
+Low level requirements
+1.	It should take operands as input and give the result of addition, subtraction, multiplication and division of the operands accordingly.
+2.	It should take two operands as input and give the area of square.
+3.	It should take a operand as input and make conversion from kilometre to meter, centimetre and millimetre.
+4.	It should take the operand as input and give its factorial as output.
+5.	It should take a operand as input check if it is prime number.
+
+Requirement Mapping
+ID	Description
+H_01	Performance
+The performance of the calculator should be high.
+
+H_02	Speed
+The speed of operations performed should be fast.
+
+H-03_L_01	It should perform all the arithmetic operations.
+It should take operands as input and give the result of addition, subtraction, multiplication and division of the operands accordingly.
+
+H-04_L_02	It should find the area of square
+It should take two operands as input and give the area of square.
+
+H-05_L_03	It should perform conversion operations. 
+It should take a operand as input and make conversion from kilometre to meter, centimetre and millimetre.
+
+H-06_L_04	It should find the factorial of number.
+It should take the operand as input and give its factorial as output.
+
+H-07_L_05	It should check for prime number.
+It should take a operand as input check if it is prime number.
+
+

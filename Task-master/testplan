@@ -1,0 +1,15 @@
+Test plan mapping
+ID	  Description	  Precondition	          Expected input	     Expected output	   Actual  Output
+H_01	Performance	  Should be 90% and above	  -	                 High performance	
+-
+H_02	speed	          <20ms	                   -	               Speed<20ms	          <20ms
+H_03	addition	     Two operands as input	  2 and 3            	5	                    5
+H_04	subtraction	   Two operands as input	  3 and 2	            1                    	1
+H_05	multiplication Two operands as input	   2*3	              6	                    6
+H_06	division	     Two operands as input	   4/2	              2	                    2
+H_07	factorial	     One operand	             3	                6	                    6
+H_08	Conversion from kilometre to meter	One operand	100km	 100000m	               100000m
+H_09	Area of square	Two operands as input	  2 and 2	             4	                  4
+
+
+
